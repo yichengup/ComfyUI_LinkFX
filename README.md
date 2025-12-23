@@ -7,7 +7,7 @@
 https://github.com/user-attachments/assets/2c6dbb88-ce67-4167-b7ca-c5bdbb121f36
 
 
-
+## 以下是原插件内容介绍
 Visual effects for ComfyUI links (wires).
 
 **Features:**
