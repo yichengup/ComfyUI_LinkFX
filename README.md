@@ -1,5 +1,13 @@
 ﻿# ComfyUI LinkFX
 
+## 2025.12.23 在原插件的基础上，给连线上添加了gif动图
+### Add GIF functionality with controls and rendering.
+ 
+
+https://github.com/user-attachments/assets/2c6dbb88-ce67-4167-b7ca-c5bdbb121f36
+
+
+
 Visual effects for ComfyUI links (wires).
 
 **Features:**
