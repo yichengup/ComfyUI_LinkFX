@@ -1,6 +1,7 @@
 ﻿# ComfyUI LinkFX
 
 ## 2025.12.23 在原插件的基础上，给连线上添加了gif动图
+注意: 谨慎避免在大型工作流开启这个功能
 ### Add GIF functionality with controls and rendering.
  
 
